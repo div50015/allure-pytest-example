@@ -1,2 +1,5 @@
 testops : 008-div50015-allure
 jenkins : C08_div50015_lesson23-allure-testops
+
+token allure testops for pycharm:
+b1e6555a-384a-48d6-9091-423adc23c5a3
