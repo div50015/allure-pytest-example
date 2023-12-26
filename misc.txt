@@ -1,0 +1,2 @@
+testops : 008-div50015-allure
+jenkins : C08_div50015_lesson23-allure-testops
